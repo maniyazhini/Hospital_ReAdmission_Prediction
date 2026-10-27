@@ -1,4 +1,4 @@
-# Hospital Readmission Prediction — DMT Project
+# Hospital Readmission Prediction
 
 ## Project title
 **Hospital Readmission Prediction using Data Mining and Machine Learning**
